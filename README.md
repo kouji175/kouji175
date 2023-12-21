@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔 This is Zhengpei Cheng, I am looking job as Data Scientist/ Data Analyst/ Buiness Analyst with F-1 OPT sponsor. I am 2023 new graduates with Master's degree in Health Informatics From Cornell University.
+- 🤔 This is Zhengpei Cheng, I am looking job as Data Scientist/ Data Analyst/ Health Economics Outcome Research/ Buiness Analyst with F-1 OPT sponsor. I am 2023 new graduates with Master's degree in Health Informatics From Cornell University.
 - ✨ I open to relocate in USA.
 - 🔭 I am familiar with Exploratory data analysis, Data Processing, Extract Transform and Load (ETL), Machine Learning（scikit-learn, TensorFlow), Deep Learning, Data Visulization, Natural language processing (NLP), SQL, Statistics. 
 - 💬 My prefer program is: Python, R, SAS. And I can use Tableau, STATA, EXCEL.
